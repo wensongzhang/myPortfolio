@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,34 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* Path: myPortfolio/src/index.css */
+html {
+  /* box-sizing: border-box; */
+  background-color: beige;
+}
+
+.nav-main {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  height: 65px;
+}
+
+.nav-work {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-id {
+  padding: 0 10px;
+}
+
+.nav-uxui {
+  padding: 0 10px;
 }
