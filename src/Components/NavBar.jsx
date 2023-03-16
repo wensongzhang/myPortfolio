@@ -8,7 +8,10 @@ export default function NavBar() {
             <div className='nav-uxui'>UX/UI</div>
         </div>
         <div>Mengdian Xing</div>
-        <div>Contact</div>
+        <div className='nav-rc'>
+            <div className='nav-resume'>Resume</div>
+            <div className='nav-contact'>Contact</div>
+        </div>
     </div>
   )
 }

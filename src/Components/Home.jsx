@@ -4,7 +4,7 @@ import UXUI from './UXUI'
 
 export default function Home() {
   return (
-    <div>Home
+    <div>
         <ID />
         <UXUI />
     </div>
